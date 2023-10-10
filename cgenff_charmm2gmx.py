@@ -1,17 +1,12 @@
 #!/usr/bin/env python
-
 # USAGE: ./cgenff_charmm2gmx.py DRUG drug.mol2 drug.str charmm36.ff
 # Tested with Python 2.7.3. Requires numpy and networkx
-
 # Copyright (C) 2014 E. Prabhu Raman prabhu@outerbanks.umaryland.edu
-#
 # For help/questions/bug reports, please contact Justin Lemkul jalemkul@outerbanks.umaryland.edu
-#
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
 # published by the Free Software Foundation, either version 3 of the
 # License, or (at your option) any later version.
-#
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.	See the
